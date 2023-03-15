@@ -4,6 +4,7 @@
 
 ##Experiencia
 
-- Nenhuma
+- Desconhecida
+- Desconhecida
 
 ---
