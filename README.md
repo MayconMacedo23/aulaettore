@@ -1,4 +1,4 @@
-# Maycon
+# Maycon Azauski
 
 ...
  # Dados Pessoais
@@ -8,11 +8,11 @@
 
  CPF: 50020222222
 
- EMAIL : NOTME@GMAIL.COM    
+ EMAIL : iTsMeMaYcOnDouGlaas@GMAIL.COM    
 
  CELULAR : 14 999999998
 
- ENDEREÇO : ANTONIO BLA BLA 
+ ENDEREÇO : ANTONIO BLA BLA FAMOSO JANIO QUDRILHAS
 
  NUMERO : 409
 
@@ -23,6 +23,10 @@
 
 - Desconhecida
 - Desconhecida
+- Puto
+- Hétero
+- O mais homem de todos
+- Alpha
 
 ---
 
